@@ -1,6 +1,6 @@
 spring:
     datasource:
-        url: jdbc:mysql://localhost/seckill
+        url: jdbc:mysql://localhost/seckill?characterEncoding=UTF-8
         username: root
         password: root
         # 使用druid数据源
